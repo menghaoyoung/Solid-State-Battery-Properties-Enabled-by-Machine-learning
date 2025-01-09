@@ -4,6 +4,7 @@ Several machine learning algorithms were evaluated to produce a good accurate mo
 
 We have used also these models to predict the activation energy, oxidation potential, and reduction potential. 
 
-Datasets are provided with these scripts to reproduce the main results. If you found this work is helpful, please cite: Accelerated Discovery of Solid-State Battery Properties Enabled by Active Learning Approaches, Mohamed Ait Tamerd, Xiaoting Lin, Xueliang Sun, AbdelilahLahmar, Jiwei Ma, Menghao Yang.
+Datasets are provided with these scripts to reproduce the main results.
+Please cite: Accelerated Discovery of Solid-State Battery Properties Enabled by Active Learning Approaches, Mohamed Ait Tamerd, Xiaoting Lin, Xueliang Sun, AbdelilahLahmar, Jiwei Ma, Menghao Yang, if you find this work helpful. 
 
 Additional information is available from the corresponding authors upon request.
