@@ -8,4 +8,4 @@ Datasets are provided with these scripts to reproduce the main results.
 If you find this work helpful, Please cite:  
 # Accelerated Discovery of Solid-State Battery Properties Enabled by Active Learning Approaches, Mohamed Ait Tamerd, Xiaoting Lin, Xueliang Sun, AbdelilahLahmar, Jiwei Ma, Menghao Yang. 
 
-Additional information is available from the corresponding authors upon request.
+Additional information is available from the corresponding author Menghao Yang upon request.
